@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
   "base_artist": "ryo (supercell)、かぐや(cv.夏吉ゆうこ)、月見ヤチヨ(cv.早見沙織)",
-  "createdAt": "2026-02-08T05:40:35.719495Z",
+  "createdAt": "2026-02-10T07:23:49.897963Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -15,10 +15,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
-      "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織)",
+      "title": "ワールドイズマイン - かぐや&月見ヤチヨ ver. - CPK! Remix",
+      "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)",
       "has_synced": false,
-      "path": "select/pl_01_ワールドイズマイン_(かぐや&月見ヤチヨ_ver.)_[CPK!_Remix]_ryo_(supercell),_かぐや(cv.夏吉ゆうこ)_&_月見ヤチヨ(cv.早見沙織).txt"
+      "path": "select/pl_01_ワールドイズマイン_-_かぐや&月見ヤチヨ_ver._-_CPK!_Remix_ryo_(supercell),_かぐや(cv.夏吉ゆうこ),_月見ヤチヨ(cv.早見沙織).txt"
     }
   ]
 }

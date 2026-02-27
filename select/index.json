@@ -1,32 +1,24 @@
 {
   "version": 1,
-  "base_track": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
-  "base_artist": "ryo (supercell)、かぐや(cv.夏吉ゆうこ)、月見ヤチヨ(cv.早見沙織)",
-  "createdAt": "2026-02-27T16:12:06.911250Z",
+  "base_track": "メルト (かぐや ver.) [CPK! Remix]",
+  "base_artist": "ryo (supercell)、かぐや(cv.夏吉ゆうこ)",
+  "createdAt": "2026-02-27T16:41:24.091864Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
-      "artist": "ryo (supercell); かぐや(cv.夏吉ゆうこ); 月見ヤチヨ(cv.早見沙織)",
+      "title": "メルト (かぐや ver.) [CPK! Remix]",
+      "artist": "ryo (supercell); かぐや(cv.夏吉ゆうこ)",
       "has_synced": true,
-      "path": "select/01_ワールドイズマイン_(かぐや&月見ヤチヨ_ver.)_[CPK!_Remix]_ryo_(supercell);_かぐや(cv.夏吉ゆうこ);_月見ヤチヨ(cv.早見沙織).lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
-      "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織)",
-      "has_synced": true,
-      "path": "select/02_ワールドイズマイン_(かぐや&月見ヤチヨ_ver.)_[CPK!_Remix]_ryo_(supercell),_かぐや(cv.夏吉ゆうこ)_&_月見ヤチヨ(cv.早見沙織).lrc"
+      "path": "select/01_メルト_(かぐや_ver.)_[CPK!_Remix]_ryo_(supercell);_かぐや(cv.夏吉ゆうこ).lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ワールドイズマイン - かぐや&月見ヤチヨ ver. - CPK! Remix",
-      "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)",
+      "title": "メルト (かぐや ver.) [CPK! Remix]",
+      "artist": "ryo (supercell) & かぐや(cv.夏吉ゆうこ)",
       "has_synced": false,
-      "path": "select/pl_01_ワールドイズマイン_-_かぐや&月見ヤチヨ_ver._-_CPK!_Remix_ryo_(supercell),_かぐや(cv.夏吉ゆうこ),_月見ヤチヨ(cv.早見沙織).txt"
+      "path": "select/pl_01_メルト_(かぐや_ver.)_[CPK!_Remix]_ryo_(supercell)_&_かぐや(cv.夏吉ゆうこ).txt"
     }
   ]
 }
